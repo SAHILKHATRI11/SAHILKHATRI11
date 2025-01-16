@@ -11,4 +11,3 @@
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/SAHIL_KHATRI11?ext=activity)
-<img src="https://leetcode-status.vercel.app/graph/api/SAHIL_KHATRI11?theme=dark&border=true&hide_title=false&custom_title=" />
