@@ -1,10 +1,16 @@
-- 👋 Hi, I’m Sahil Khatri
-- 👀 I’m interested in web development and new technologies
-- 🌱 Backend developer
-- 💞️ I’m looking to collaborate on anything exciting and innovative
-- 📫 How to reach me: via Gmail[sahilformalacc@gmail.com]
-- 😄 Pronouns: [he/him]
+Hi there! 👋 I'm **Sahil Khatri**, a dedicated **backend developer** with a strong foundation in **web development** and a passion for embracing **new technologies**. My technical toolkit includes:
 
+- **Languages**: C, Java, Python, JavaScript
+- **Web Technologies**: HTML5, CSS3, Bootstrap
+- **Backend Frameworks**: Node.js, Express.js
+- **Databases**: MongoDB, MySQL
+- **Tools**: Git, Postman
+
+I have a solid grasp of data structures and algorithms, primarily using Java, as demonstrated in my [DSA repository](https://github.com/SAHILKHATRI11/DSA).
+
+I'm always eager to **collaborate on innovative and exciting projects** that push the boundaries of technology.
+
+Feel free to reach out to me at **[sahilformalacc@gmail.com](mailto:sahilformalacc@gmail.com)**. Let's create something remarkable together! 😄 
 
 
 
