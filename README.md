@@ -16,7 +16,7 @@ Feel free to reach out to me at **[sahilformalacc@gmail.com](mailto:sahilformala
 
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/SAHIL_KHATRI11?ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/SAHILKHATRI11?ext=activity)
 
 
 
